@@ -1,0 +1,1 @@
+/* This is a script file should you need JavaScript for any solutions. */
