@@ -1,1 +1,17 @@
 /* You can start applying styles here. Feel free to create more files as you see fit :-)*/
+body {
+    background-color: #84ac8c;
+    color: #567261;
+    font-family: 'Graduate', cursive;
+    font-family: 'Rokkitt', serif;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+/* Customization of the center logo*/
+.pic {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
